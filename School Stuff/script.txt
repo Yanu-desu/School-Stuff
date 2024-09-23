@@ -1,0 +1,4 @@
+<script>
+	console.log{"Hello mf"}
+	document.writer{"Hello mf"}
+</script>
